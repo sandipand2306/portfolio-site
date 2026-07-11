@@ -25,9 +25,10 @@ nav{
 }
 
 .logo{
-    color:#fff;
+    color:yellow;
     font-size:28px;
     font-weight:bold;
+    align-items:center;
 }
 
 nav ul{
