@@ -20,7 +20,7 @@
 git init
 git add .
 git commit -m "Initial portfolio"
-git remote add origin https://github.com/username/repository.git
+git remote add origin https://github.com/sandipand2306/portfolio-site
 git push -u origin main
 
 
